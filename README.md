@@ -1,5 +1,5 @@
 # SQFLite CRUD Example
 
-This repo contains an application that shows car list by using SQFLite CRUD Operations.
+This repo contains an application that shows car list by using SQFLite CRUD Operations with null safety.
 
 
